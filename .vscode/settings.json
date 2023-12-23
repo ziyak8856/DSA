@@ -1,5 +1,6 @@
 {
-    "files.associations": {
-        "PRINT_DEC.C": "cpp"
-    }
+  "files.associations": {
+    "PRINT_DEC.C": "cpp"
+  },
+  "C_Cpp_Runner.msvcBatchPath": ""
 }
