@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/ziyaurraheman/Desktop/DSA/DP_LEVEL1/codeforces",
-      "program": "/home/ziyaurraheman/Desktop/DSA/DP_LEVEL1/codeforces/build/Debug/outDebug",
+      "cwd": "/home/ziyaurraheman/Desktop/DSA/.vscode/dsu",
+      "program": "/home/ziyaurraheman/Desktop/DSA/.vscode/dsu/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

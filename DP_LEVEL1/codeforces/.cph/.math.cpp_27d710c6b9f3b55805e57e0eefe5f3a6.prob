@@ -1,0 +1,1 @@
+{"name":"Local: math","url":"/home/ziyaurraheman/Desktop/DSA/DP_LEVEL1/codeforces/math.cpp","tests":[{"id":1705588814191,"input":"1\n5\n0 8 12 15 20\n","output":"3\n8\n1\n4\n14\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ziyaurraheman/Desktop/DSA/DP_LEVEL1/codeforces/math.cpp","group":"local","local":true}
